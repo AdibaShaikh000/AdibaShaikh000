@@ -29,10 +29,15 @@
 **GenAI & Agentic** — LangGraph · LangChain · LlamaIndex · multi-agent & ReAct systems · Graph RAG · hybrid search · reranking · MCP (FastMCP) · tool calling · SSE streaming · prompt engineering · multi-turn memory
 
 **LLMs & Models** — GPT-4o / GPT-5.2 · Llama 3 · Mistral · BERT / DistilBERT / LaBSE · Transformers · fine-tuning (LoRA, QLoRA)
+
 **ML & NLP** — classification · Random Forest · NER · BIO tagging · dependency parsing · sentence embeddings · semantic reranking
+
 **Safety & Observability** — PII detection & redaction · guardrails · RAGAS · DeepEval · LangSmith · OpenTelemetry · Azure Application Insights
+
 **Engineering** — Python · FastAPI · Flask · Django · microservices · system design · CI/CD · Docker · unit / load / integration testing
+
 **Cloud** — Azure OpenAI · Azure DevOps · AWS Bedrock · GCP
+
 **Data** — Azure SQL · MySQL · Milvus · FAISS · Neo4j · Azure AI Search · MongoDB · Redis
 
 ## Education & certifications
