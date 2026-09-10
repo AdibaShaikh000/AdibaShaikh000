@@ -43,6 +43,7 @@
 ## Education & certifications
 
 **M.S. Artificial Intelligence**, University of Mumbai (86%)
+
 **B.S. Computer Science**, University of Mumbai (Outstanding)
 
 ## Certifications
