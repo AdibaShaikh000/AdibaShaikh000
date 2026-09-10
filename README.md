@@ -49,4 +49,5 @@
 
 ## Awards
 
-Surpass Innovation Award (Synechron) · Special Initiative Award (TCS)
+Surpass Innovation Award (Synechron)<br>
+Special Initiative Award (TCS)
