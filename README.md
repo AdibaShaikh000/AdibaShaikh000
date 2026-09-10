@@ -12,8 +12,8 @@
 |---|---|---|
 | **Synechron** — Tech Lead | GPT-5.2 audit chatbot on Azure OpenAI that auto-generates compliance test plans from regulatory documents, with PII detection/redaction and OpenTelemetry → Azure App Insights observability | Compliance teams save ~18 hrs/week |
 | **Synechron** — Tech Lead | RAG chatbot on Azure OpenAI (GPT-4o) — chunking strategy, hybrid search via Azure AI Search, semantic reranking, multi-turn memory, agentic retrieval | 87% response accuracy · 60% faster document analysis |
-| **Brane Enterprises** — Assoc. Solution Lead | Domain-aware knowledge graph in Neo4j with LaBSE embeddings as native vectors, powering entity-attribute suggestions across 20M nodes | Context-aware attribute surfacing at scale |
-| **Brane Enterprises** | Fine-tuned DistilBERT NER (few-shot synthetic data + BIO tagging), packaged as a versioned REST microservice | 96% macro F1 · 109 languages |
+| **Brane Enterprises** — Associate Solution Lead | Domain-aware knowledge graph in Neo4j with LaBSE embeddings as native vectors, powering entity-attribute suggestions across 20M nodes | Context-aware attribute surfacing at scale |
+| **Brane Enterprises** - Associate Solution Lead | Fine-tuned DistilBERT NER (few-shot synthetic data + BIO tagging), packaged as a versioned REST microservice | 96% macro F1 · 109 languages |
 | **TCS** — System Engineer | Enterprise document-processing pipeline on AWS Textract + GCP Document AI for multi-page PDFs, invoices, and IDs | 20K+ documents/month |
 
 ## Open-source projects
@@ -36,12 +36,17 @@
 
 ## Education & certifications
 
-**M.S. Artificial Intelligence**, University of Mumbai (86%) · **B.S. Computer Science**, University of Mumbai (Outstanding)
+**M.S. Artificial Intelligence**, University of Mumbai (86%) 
+**B.S. Computer Science**, University of Mumbai (Outstanding)
+
+## Certifications
 
 - AI Engineer — Agentic Track: The Complete Agent & MCP Course (Udemy)
 - AI Engineer — Core Track: LLM Engineering, RAG, QLoRA, Agents (Udemy)
 - Knowledge Graphs for RAG (DeepLearning.AI)
 - ChatGPT Prompt Engineering for Developers (DeepLearning.AI)
 - AI-900: Azure AI Fundamentals (Microsoft)
+
+## Awards
 
 🏆 Surpass Innovation Award (Synechron) · Special Initiative Award (TCS)
