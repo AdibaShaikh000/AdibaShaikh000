@@ -4,7 +4,7 @@
 
 I build applied ML and LLM systems end-to-end — from exploratory modelling and data-quality analysis to production RAG pipelines, multi-agent orchestration, and the FastAPI/Docker backend that ships them. My focus is on retrieval systems that are *verifiable*: cited answers, live data, and graph-aware cross-references rather than best-guess vector matches.
 
-🌐 [Portfolio](https://example.com) · 💼 [LinkedIn]([[https://www.linkedin.com/in/your-handle]](https://www.linkedin.com/in/adiba-shaikh-495716163/) · ✉️ adibashaikh000@gmail.com
+🌐 [Portfolio](https://example.com) · 💼 [LinkedIn](https://www.linkedin.com/in/adiba-shaikh-495716163/) · ✉️ adibashaikh000@gmail.com
 <!-- ^ replace these three links with your real portfolio / LinkedIn / email, or delete any you don't want -->
 
 ## Featured work
