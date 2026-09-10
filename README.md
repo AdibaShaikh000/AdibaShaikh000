@@ -27,6 +27,7 @@
 ## Toolbox
 
 **GenAI & Agentic** — LangGraph · LangChain · LlamaIndex · multi-agent & ReAct systems · Graph RAG · hybrid search · reranking · MCP (FastMCP) · tool calling · SSE streaming · prompt engineering · multi-turn memory
+
 **LLMs & Models** — GPT-4o / GPT-5.2 · Llama 3 · Mistral · BERT / DistilBERT / LaBSE · Transformers · fine-tuning (LoRA, QLoRA)
 **ML & NLP** — classification · Random Forest · NER · BIO tagging · dependency parsing · sentence embeddings · semantic reranking
 **Safety & Observability** — PII detection & redaction · guardrails · RAGAS · DeepEval · LangSmith · OpenTelemetry · Azure Application Insights
